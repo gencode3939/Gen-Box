@@ -83,42 +83,6 @@ app/
 - **DataStore Preferences** (Persistent user configuration)
 - **Coroutines & Flow** (Asynchronous reactive pipelines)
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-- **Android Studio Jellyfish | 2024.1+** or **Koala**
-- **JDK 17+**
-- **Android SDK API 26+** (Target SDK 34)
-
-### Installation & Build
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/gen-box.git
-   cd gen-box
-   ```
-
-2. Open the project in **Android Studio**.
-
-3. Sync Gradle and build the project:
-   ```bash
-   ./gradlew assembleDebug
-   ```
-
-4. Run on an Android device or emulator running API 26 or higher.
-
----
-
-## 🧪 Testing
-
-Run JVM unit and Robolectric tests:
-```bash
-./gradlew testDebugUnitTest
-```
-
----
 
 ## 📄 License
 
