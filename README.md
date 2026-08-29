@@ -2,7 +2,7 @@
 # 📦 Gen Box — Smart, Offline-First Savings & Piggy Bank Manager
 
 <p align="center">
-  <img src="app_icon.png" width="140" height="140" alt="Gen Box App Icon" style="border-radius: 28px;" />
+  <img src="https://cdn.phototourl.com/free/2026-08-29-9d13e2c6-60f9-432d-873d-3fff2650715c.jpg" width="140" height="140" alt="Gen Box App Icon" style="border-radius: 28px;" />
 </p>
 
 <p align="center">
