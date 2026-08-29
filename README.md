@@ -84,12 +84,6 @@ app/
 - **Coroutines & Flow** (Asynchronous reactive pipelines)
 
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 💡 Acknowledgements
 
 Designed with simplicity, privacy, and user delight in mind. Built with Jetpack Compose & Material 3.
