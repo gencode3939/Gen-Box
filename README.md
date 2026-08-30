@@ -4,6 +4,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D9488,35:2DD4BF,70:6366F1,100:0F172A&height=240&section=header&text=Gen%20Box%20%F0%9F%93%A6&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Smart%2C%20Offline-First%20Savings%20Goals%20%26%20Gamified%20Piggy%20Bank&descFontSize=21&descAlignY=60&descAlign=50" alt="Gen Box Animated Header" width="100%" />
 </p>
 
+<!-- App Icon Showcase -->
+<p align="center">
+  <img src="https://cdn.phototourl.com/free/2026-08-29-9d13e2c6-60f9-432d-873d-3fff2650715c.jpg" width="130" height="130" alt="Gen Box Official Icon" style="border-radius: 28px; box-shadow: 0 10px 25px rgba(13, 148, 136, 0.4);" />
+</p>
+
 <!-- Dynamic Multi-line Typing Animation -->
 <p align="center">
   <a href="https://github.com/gencode3939/Gen-Box">
