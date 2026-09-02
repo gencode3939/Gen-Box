@@ -1,108 +1,105 @@
 
 <!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0F172A,35:0D9488,70:2DD4BF,100:6366F1&height=250&section=header&text=Gen%20Box&fontSize=70&fontAlignY=35&desc=The%20Next-Gen%20Gamified%20Financial%20Vault&descAlignY=55&descSize=22" width="100%" alt="Gen Box Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,25:00E5FF,50:7C4DFF,75:FF2E93,100:00F5D4&height=280&section=header&text=GEN%20BOX&fontSize=72&fontAlignY=38&desc=Next-Gen%20Gamified%20Offline%20Vault%20%26%20Theme%20Ecosystem&descAlignY=58&descSize=20" width="100%" alt="Gen Box Header"/>
 
   <a href="https://github.com/gencode3939/Gen-Box">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=800&lines=%E2%9C%A8+100%25+Offline-First+%26+Zero-Cloud+Security;%F0%9F%A7%A0+Deep+Scan+AI+Material+3+Theme+Extraction;%F0%9F%94%92+AES%2FGCM+Theme+Vault+Encryption;%F0%9F%8E%AE+Gamified+Quests+%26+Rewards+Engine;%F0%9F%8C%88+Global+Velvet+Morphing+UI+Animations" alt="Typing SVG Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3200&pause=1200&color=00E5FF&center=true&vCenter=true&width=860&lines=%F0%9F%9A%80+Gen+Connect%3A+Air-Gapped+Bluetooth+BLE+Hardware+Transfer;%F0%9F%8E%A8+Theme+Studio%3A+Instant+AI+Color+Extraction+%26+Material+3;%F0%9F%8E%AE+Gamified+Economy%3A+Gen+Points%2C+Level-Ups+%26+Reward+Quests;%F0%9F%94%92+Zero-Cloud+Security%3A+100%25+Local+AES-256-GCM+Encryption;%E2%9C%A8+Velvet+Morphing+UI%3A+Full+Dynamic+Palette+Reactivity" alt="Gen Box Animated Typing Slogan" />
   </a>
 </div>
 
 <!-- Shield Badges -->
 <p align="center">
   <a href="https://android.com"><img src="https://img.shields.io/badge/Android-14+-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform" /></a>
-  <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-2.0-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Language" /></a>
-  <a href="https://developer.android.com/jetpack/compose"><img src="https://img.shields.io/badge/Jetpack_Compose-M3-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="UI" /></a>
-  <a href="https://developer.android.com/training/data-storage/room"><img src="https://img.shields.io/badge/Room_SQLite-100%25_Offline-009688?style=for-the-badge&logo=sqlite&logoColor=white" alt="Database" /></a>
+  <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-2.0+-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Language" /></a>
+  <a href="https://developer.android.com/jetpack/compose"><img src="https://img.shields.io/badge/Jetpack_Compose-Material_3-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="UI" /></a>
+  <a href="https://developer.android.com/training/data-storage/room"><img src="https://img.shields.io/badge/Room_SQLite-Zero_Cloud-009688?style=for-the-badge&logo=sqlite&logoColor=white" alt="Database" /></a>
+  <a href="https://bluetooth.com"><img src="https://img.shields.io/badge/Bluetooth-BLE_Hardware-007FFF?style=for-the-badge&logo=bluetooth&logoColor=white" alt="Bluetooth BLE" /></a>
   <a href="https://github.com/gencode3939/Gen-Box"><img src="https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="License" /></a>
 </p>
 
 ---
 
-## 📖 What is Gen Box?
+## 🌟 Gen Box Nedir? / What is Gen Box?
 
 <p align="center">
-  <b>Gen Box</b> is a masterfully crafted, privacy-first Android application that transforms your personal savings into an intuitive, motivating, and highly gamified experience. <br/><br/>
-  Operating <b>100% locally on your device</b> with zero accounts, zero cloud dependencies, and zero tracking — Gen Box turns financial discipline into an engaging journey with real-time rewards, AI-generated dynamic themes, liquid UI animations, and velocity-based goal pacing.
+  <b>Gen Box</b>, finansal hedeflerinizi ve birikim alışkanlıklarınızı eğlenceli, motive edici ve tamamen <b>çevrimdışı (100% Offline-First)</b> bir oyunlaştırılmış deneyime dönüştüren yeni nesil Android uygulamasıdır.<br/><br/>
+  <i>Sıfır hesap, sıfır bulut bağımlılığı ve sıfır veri takibi</i> prensibiyle çalışan Gen Box; dinamik AI renk paletleri, Bluetooth üzerinden cihazlar arası hava boşluklu (Air-Gapped) tema transferi ve akıcı Material 3 animasyonlarıyla donatılmıştır.
 </p>
 
 ---
 
-## 🚀 The Gen Box Experience
+## 🚀 Son Yapılan Yenilikler & Güncellemeler (Changelog)
 
-### 🧠 1. Deep Scan AI & Theme Vault (NEW!)
-* **32-Point Deep AI Scan:** Upload any image from your gallery, and our offline AI engine will deep-scan 32 color clusters to generate a mathematically perfect, **Material 3 compliant** theme. It automatically adjusts contrast ratios to guarantee WCAG accessibility.
-* **Global Velvet Morphing:** Say goodbye to harsh theme switching. Whenever a new theme is applied, the entire app fluidly transforms using `animateColorAsState` and Shared Axis transitions, delivering a **velvet-smooth liquid UI experience**.
-* **AES/GCM Theme Vault:** Encrypt your personalized AI themes using military-grade AES/GCM encryption. Export them as `vault://...` links to safely back up or share your aesthetic with friends!
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=7C4DFF&center=true&vCenter=true&width=750&lines=%E2%9C%A8+T%C3%BCm+Yeni+%C3%96zellikler+Tek+Tek+Eklendi+ve+Optimize+Edildi!;%F0%9F%9B%A0%EF%B8%8F+Dinamik+Tema+Entegrasyonu+ve+BLE+Donan%C4%B1m+Deste%C4%9Fi+Yay%C4%B1nda!" alt="Changelog Typing" />
+</div>
 
-### 🎮 2. Gamified Quest & Reward Engine
-Turn saving money into a game where you always win:
-* **Instant Rewards:** Earn `+15 Gen Points` for every deposit, `+25 GP` for setting up a new vault, and a massive `+150 GP` Jackpot when you smash your target!
-* **Dynamic Quests:** Complete daily check-ins, maintain savings streaks, and unlock permanent milestones.
-* **Reward Store:** Spend your hard-earned Gen Points on unlocking luxury cosmetic themes and 3D holographic box shaders.
+### 📡 1. Gen Connect: Gerçek Bluetooth & BLE Donanım Taraması
+- 🔍 **Donanım Düzeyinde BLE Arama:** Sahte/simüle cihazlar kaldırıldı. Artık `BluetoothAdapter` ve `BluetoothLeScanner` kullanılarak yakındaki ve eşleşmiş gerçek cihazlar taranır.
+- 🔐 **GTP2 Güvenli Paket Protokolü:** 4-bayt Magic Header (`GTP2`), 64-bayt SHA-256 bütünlük kontrolü ve AES-256-GCM şifreleme.
+- ⚡ **Ultra Turbo Mod:** 512-bayt MTU ve sıfır internet bağımlılığıyla cihazlar arası temaları saniyeler içinde paylaşın.
 
-### 🎨 3. Luxury Aesthetics & 3D Shaders
-Start with 8 ultra-luxury built-in themes or generate your own:
-* **Emerald Deep Night** • **Cyberpunk Neon** • **Midnight Amethyst** • **Titanium Stealth** and more...
-* **Holographic Box Materials:** Wrap your vaults in *Minimal Glass*, *Neon Glow*, *Wooden Timber*, or *Golden Armor* shaders.
+### 🎨 2. Dinamik Tema Uygulama & Global Renk Reaktifi
+- 🌈 **Anında Renk Yansıtma:** `ThemeStudio` üzerinden üretilen veya `Gen Connect` ile alınan özel AI temaları anında tüm uygulamaya dinamik Material 3 `ColorScheme` olarak uygulanır.
+- 🎛️ **Ayarlar İçi Hızlı Seçim:** Ayarlar ekranına yerleştirilen hızlı tema çipleri (Calm Blue, Warm Coral, Night Glass, Mint Focus, Neutral Paper) ile tek tıkla geçiş yapabilir, özel AI temasını sıfırlayabilirsiniz.
+- 🌊 **Velvet Morphing Geçişleri:** Renkler değiştiğinde arayüz `animateColorAsState` ile yumuşak ve akıcı bir şekilde renk değiştirir.
 
-### 🔒 4. 100% Offline, Zero-Leakage Security
-* **Air-Gapped Privacy:** Gen Box does not require the internet. Your financial data never leaves your device.
-* **Privacy Shield Mode:** One-tap stealth mode obscures all money values (`••••••`) when you are in public.
-* **Secure Ledger:** Built-in unalterable local audit trail tracks every deposit, withdrawal, and configuration change.
+### 🎮 3. Oyunlaştırılmış Görev & Ödül Merkezi (Gamification Engine)
+- 🏆 **Gen Puanı (GP) Sistemi:** Her para yatırmada `+15 GP`, hedef oluşturmada `+25 GP`, hedefe ulaşıldığında `+150 GP` Jackpot!
+- 🎖️ **Seviye ve Başarım Ağacı:** Seviye atlayarak yeni kutu stilleri, premium temalar ve özel hologram gölgelendiricileri açın.
+- 🎁 **Ödül Mağazası:** Kazanılan puanları estetik temalara ve 3D kutu efektlerine dönüştürün.
+
+### 🌌 4. Quiet Galaxy & Gen Voice Asistanı
+- 🧘 **Quiet Galaxy:** Birikim yolculuğunuzda zihinsel dinginlik ve motivasyon sağlayan etkileşimli galaksi deneyimi.
+- 🎙️ **Gen Voice Assistant:** Sesli komutlarla para ekleme, hedef sorgulama ve durum özeti alma yeteneği.
+- 🎼 **Goal Orchestra:** Çoklu hedefleri tek bir orkestrasyon panosunda organize edin ve hızlandırılmış tasarruf rotaları oluşturun.
+
+### 🛡️ 5. Güvenlik, Gizlilik & Temiz Kod Optimizasyonu
+- 🔒 **Sıfır Bulut Bağımlılığı:** Tüm verileriniz cihazınızdaki Room SQLite veri tabanında güvenle saklanır.
+- 🙈 **Gizlilik Kalkanı (Privacy Shield):** Kalabalık ortamlarda bakiyelerinizi tek tıkla maskeleme (`••••••`).
+- 🧹 **Arındırılmış Arayüz:** Gereksiz debug menüleri temizlendi, sade ve güven veren modern bir **Sürüm Bilgi Kartı** eklendi.
 
 ---
 
-## 🌟 Interactive Flow Architecture
-
-<div align="center">
+## 🏗️ Mimari ve Teknoloji Yığını
 
 ```mermaid
 graph TD
-    A[🎯 Set New Goal] -->|Earn +25 GP| B(🎮 Gamification Engine)
-    C[💰 Make a Deposit] -->|Earn +15 GP| B
-    D[📸 Upload Photo] --> E{Deep Scan AI}
-    E -->|WCAG Auto-Contrast| F[🎨 Generate M3 Theme]
-    F -->|AES/GCM Encrypt| G[🔐 Theme Vault Export]
-    B --> H[🛍️ Reward Store]
-    H -->|Spend GP| I[✨ Unlock Luxury Shaders]
-    F -.->|Velvet Morph Animation| UI((Liquid UI UI))
+    UI[📱 Jetpack Compose UI] -->|StateFlow| VM[🧠 MainViewModel]
+    VM -->|Data Access| REPO[📦 UserPreferencesRepository & GoalRepository]
+    REPO -->|ACID Persistence| DB[(🗄️ Room SQLite Database)]
+    VM -->|Hardware BLE| BLE[📡 GenConnect BLE Controller]
+    VM -->|AI Color Engine| THEME[🎨 Palette & Material 3 Dynamic Engine]
+    VM -->|GP / Rewards| GAME[🎮 Gamification Engine]
 ```
 
-</div>
+| Bileşen / Component | Kullanılan Teknoloji / Technology | İşlev / Purpose |
+| :--- | :--- | :--- |
+| **Arayüz (UI)** | Jetpack Compose, Material Design 3 | Akıcı animasyonlar, dinamik temalama ve modern kart bileşenleri |
+| **Mimari** | MVVM, Clean Architecture, Kotlin Flow | Reaktif tek yönlü veri akışı ve katmanlı temiz kod |
+| **Veri Tabanı** | Room SQLite (KSP Destekli) | %100 çevrimdışı, güvenli ve şifreli yerel depolama |
+| **Bluetooth / BLE** | Android Bluetooth LE Framework | Donanım tabanlı hava boşluklu (Air-Gapped) veri transferi |
+| **Kriptografi** | AES-256-GCM, SHA-256 Digest | Cihazlar arası GTP2 paketlerinin tam bütünlük ve gizlilik doğrulaması |
 
 ---
 
-## 🏗️ Cutting-Edge Tech Stack
+## 📲 Kurulum ve Çalıştırma
 
-| Technology | Implementation & Purpose |
-| :--- | :--- |
-| **Kotlin 2.0+** | Modern, expressive, type-safe development. |
-| **Jetpack Compose (M3)** | Declarative, velvet-smooth UI with `AnimatedContent` & `animateColorAsState`. |
-| **Room Database (KSP)** | 100% Offline, ACID-compliant local SQLite storage. |
-| **Coroutines & StateFlow** | Reactive, non-blocking single-source-of-truth state management. |
-| **Palette API & ColorUtils** | Complex mathematical color extraction and WCAG accessibility contrast blending. |
-| **AES/GCM Encryption** | Cryptographically secure Theme Vault generation and decryption. |
+### Gereksinimler
+- **Android Sürümü:** Android 8.0 (API 26) veya üzeri (Android 14+ önerilir)
+- **Geliştirme Ortamı:** Android Studio Koala / Ladybug (2024.1+)
+- **JDK:** Java 17 veya üzeri
 
----
-
-## 🚀 Quick Start Guide
-
-### Prerequisites
-* **Android Studio** Ladybug / Koala (2024.1+) or newer
-* **JDK 17** or higher
-* **Android Device / Emulator**: Android 8.0 (API 26) or above
-
-### Build & Run
 ```bash
-# 1. Clone the repository
+# 1. Projeyi klonlayın
 git clone https://github.com/gencode3939/Gen-Box.git
 cd Gen-Box
 
-# 2. Build the Debug APK
+# 2. Debug APK'sını derleyin
 ./gradlew assembleDebug
 
-# 3. Install & launch on connected device
+# 3. Bağlı cihaza veya emülatöre yükleyin
 ./gradlew installDebug
 ```
 
@@ -110,8 +107,9 @@ cd Gen-Box
 
 <!-- Animated Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0F172A,35:0D9488,70:2DD4BF,100:6366F1&height=130&section=footer" alt="Gen Box Animated Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,25:00E5FF,50:7C4DFF,75:FF2E93,100:00F5D4&height=140&section=footer" alt="Gen Box Animated Footer" width="100%" />
 </p>
+
 <p align="center">
-  <sub>Designed & Developed by <a href="https://github.com/gencode3939"><b>@gencode3939</b></a> • Open Source under the MIT License</sub>
+  <sub>Geliştirici: <a href="https://github.com/gencode3939"><b>@gencode3939</b></a> • MIT Lisansı ile Açık Kaynak</sub>
 </p>
