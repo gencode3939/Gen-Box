@@ -1,4 +1,4 @@
-
+[README (9).md](https://github.com/user-attachments/files/31731376/README.9.md)
 <!-- Animated Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,25:00E5FF,50:7C4DFF,75:FF2E93,100:00F5D4&height=280&section=header&text=GEN%20BOX&fontSize=72&fontAlignY=38&desc=Next-Gen%20Gamified%20Offline%20Vault%20%26%20Theme%20Ecosystem&descAlignY=58&descSize=20" width="100%" alt="Gen Box Header"/>
